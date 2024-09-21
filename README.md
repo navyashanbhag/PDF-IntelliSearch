@@ -4,6 +4,7 @@ PDF-IntelliSearch is an AI-powered PDF search tool that leverages Google's Gemin
 
 ### Features
 PDF Text Extraction: Extracts text from PDF files for easy processing.
+
 Question-Answering with Gemini: Uses Google’s Gemini LLM to answer specific questions based on the extracted content.
 Interactive CLI: Users can input a PDF filename and ask questions directly from the command line.
 Fast & Accurate: Leverages powerful language models for accurate and context-aware answers
