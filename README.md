@@ -13,7 +13,7 @@ PDF-IntelliSearch is an AI-powered PDF search tool that leverages Google's Gemin
 * Python 3.8+
 * Pip (Python package installer)
 * PyPDF2
-* google.generativeai library
+* google.generativeai library and API key
 
 ### Usage
 1. Extract text from a PDF file and ask a question:
